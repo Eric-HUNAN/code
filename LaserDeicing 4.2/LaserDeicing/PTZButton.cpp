@@ -1,12 +1,4 @@
-/*******************************************************
-Copyright 2008-2011 Digital Technology Co., Ltd. 
-文  件：	PTZButton.cpp
-开发单位：	杭州
-编  写：	shizhiping
-日  期：	2009.5
-描  述：	云台按钮类
-修  改：	
-********************************************************/
+//云台控制类
 #include "stdafx.h"
 #include "LaserDeicing.h"
 #include "PTZButton.h"
